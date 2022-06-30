@@ -1,7 +1,7 @@
 {
     "name": "NerdyCoin", 
     "symbol": "$NERD",
-    "uri": "../NerdyCoinUri.json",
+    "uri": "https://raw.githubusercontent.com/solanaGig/NerdyCoinLogo/main/NerdyCoinUri.json",
     "sellerFeeBasisPoints": 0,
     "creators": null,
     "collection": null,
