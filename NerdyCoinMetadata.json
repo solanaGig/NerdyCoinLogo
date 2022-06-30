@@ -1,0 +1,9 @@
+{
+    "name": "NerdyCoin", 
+    "symbol": "$NERD",
+    "uri": "../NerdyCoinUri.json",
+    "sellerFeeBasisPoints": 0,
+    "creators": null,
+    "collection": null,
+    "uses": null
+  }
